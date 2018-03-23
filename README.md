@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/YTiStrafeNubzHD/AdminFun.svg)](http://hits.dwyl.io/YTiStrafeNubzHD/AdminFun)
+
 AdminFun
 ========
 
